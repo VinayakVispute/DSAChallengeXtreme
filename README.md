@@ -1,4 +1,4 @@
-#DSAChallengeXtreme
+# DSAChallengeXtreme
 ## 120 Days of DSA Algorithm Challenge
 
 Welcome to the 120 Days of DSA Algorithm Challenge! This challenge is designed to help you improve your skills in data structures and algorithms by providing a structured and consistent approach to learning and practicing.
@@ -12,12 +12,13 @@ The challenge consists of solving one DSA problem every day for 120 days. The pr
 <tr>
 <td> No </td>
 <td> Question </td>
-<td> Solution </td>
+<td> Solution</td>
 </tr>
 <tr>
-<th colspan = 2>Arrays</th>
+<th colspan = 2>Arrays </th>
 <th> <a href="https://github.com/VinayakVispute/DSAChallengeXtreme/tree/main/Arrays"> click here </a> <th>
-<tr>
+  </tr>
+
 <tr>
 <td> 1 </td>
 <td>Reverse the array </td>
