@@ -26,6 +26,16 @@ The challenge consists of solving one DSA problem every day for 120 days. The pr
 </tr>
 <tr>
 <td> 2 </td>
+<td>Kth Maximum and Minimum Element of the Array</td>
+<td> <a href="https://github.com/VinayakVispute/DSAChallengeXtreme/blob/main/Arrays/kthSmallestAndLargestElementOfArray.cpp"> click here </a>  </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td>012 Sort also known as Dutch National Flag Sort</td>
+<td> <a href="https://github.com/VinayakVispute/DSAChallengeXtreme/blob/main/Arrays/sort012.cpp"> click here </a>  </td>
+</tr>
+<tr>
+<td> 4 </td>
 <td>Maximum and minimum of an array using minimum number of comparisons</td>
 <td> <a href="https://github.com/VinayakVispute/DSAChallengeXtreme/blob/main/Arrays/sumOfMaxAndMin.cpp"> click here </a>  </td>
 </tr>
