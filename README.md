@@ -15,7 +15,7 @@ The challenge consists of solving one DSA problem every day for 120 days. The pr
 <td> Solution</td>
 </tr>
 <tr>
-<th colspan = 2>Arrays </th>
+<th>Arrays </th>
 <th> <a href="https://github.com/VinayakVispute/DSAChallengeXtreme/tree/main/Arrays"> click here </a> <th>
   </tr>
 
