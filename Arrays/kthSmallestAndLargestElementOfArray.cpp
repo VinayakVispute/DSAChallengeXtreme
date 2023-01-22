@@ -24,7 +24,7 @@ for(int i = 0;i<n;i++){
 }
 
 vector<int> ans = kthSmallLarge(arr,n,k);
-
+cout<<endl;
 for(auto element:ans){
     cout<<element<<" ";
 }
