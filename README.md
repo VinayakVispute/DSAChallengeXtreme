@@ -39,5 +39,10 @@ The challenge consists of solving one DSA problem every day for 120 days. The pr
 <td>Maximum and minimum of an array using minimum number of comparisons</td>
 <td> <a href="https://github.com/VinayakVispute/DSAChallengeXtreme/blob/main/Arrays/sumOfMaxAndMin.cpp"> click here </a>  </td>
 </tr>
+<tr>
+<td> 5 </td>
+<td>Move All Negative Numbers To Beginning And Positive To End</td>
+<td> <a href="https://github.com/VinayakVispute/DSAChallengeXtreme/blob/main/Arrays/moveAllNegativeNumbersToBeginningAndPositiveToEnd.cpp"> click here </a>  </td>
+</tr>
 
 </table>
