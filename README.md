@@ -44,5 +44,10 @@ The challenge consists of solving one DSA problem every day for 120 days. The pr
 <td>Move All Negative Numbers To Beginning And Positive To End</td>
 <td> <a href="https://github.com/VinayakVispute/DSAChallengeXtreme/blob/main/Arrays/moveAllNegativeNumbersToBeginningAndPositiveToEnd.cpp"> click here </a>  </td>
 </tr>
+<tr>
+<td> 6 </td>
+<td>Find Similarities Between Two Arrays - Union & Intersection</td>
+<td> <a href="https://github.com/VinayakVispute/DSAChallengeXtreme/blob/main/Arrays/findSimilaritiesBetweenTwoArrays.cpp"> click here </a>  </td>
+</tr>
 
 </table>
